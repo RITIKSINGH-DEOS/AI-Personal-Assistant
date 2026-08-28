@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI Voice Assistant",
+  "description": "Personal AI voice assistant and task manager with configurable wake word, dynamic scheduling, and companion architecture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
